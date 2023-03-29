@@ -14,9 +14,7 @@
 
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fjieyu98%2Fjieyu98&label=VISITORS&labelColor=%23007EC6&countColor=%23ggg" />
   
-  <h6>What I enjoy working with:</>
-  
-  <br/><br/>
+  <h6>What I enjoy working with:<h6/>
     
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
