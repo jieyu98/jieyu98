@@ -11,10 +11,12 @@
   <a href="mailto:jieyu9898@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fjieyu98%2Fjieyu98&label=VISITORS&labelColor=%23007EC6&countColor=%23ggg" />
   
-  <img src="https://badges.peiyuan.ch/leetcode/jieyu98/ranking?logo=leetcode&label=Leetcode&style=for-the-badge&color=green" />
+  <a href="https://leetcode.com/jieyu98/">
+    <img src="https://badges.peiyuan.ch/leetcode/jieyu98/ranking?logo=leetcode&label=Leetcode&style=for-the-badge&color=green" />
+  </a>
+  
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fjieyu98%2Fjieyu98&label=VISITORS&labelColor=%23007EC6&countColor=%23ggg" />
 
   <h6>I enjoy working with<h6/>
     
