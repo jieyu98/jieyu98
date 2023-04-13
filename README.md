@@ -4,7 +4,7 @@
   
   <br/>
   
-  <a href="https://www.linkedin.com/in/seah-jie-yu/" target="_blank">
+  <a href="https://www.linkedin.com/in/seah-jie-yu/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   
@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   
-  <a href="https://leetcode.com/jieyu98/" target="_blank">
+  <a href="https://leetcode.com/jieyu98/">
     <img src="https://badges.peiyuan.ch/leetcode/jieyu98/ranking?logo=leetcode&label=Leetcode&style=for-the-badge&color=green" />
   </a>
   
